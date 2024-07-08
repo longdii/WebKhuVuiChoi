@@ -8,7 +8,7 @@
     <title>Thanh Toán</title>
 </head>
 <body>
-    <form action="/thanhtoan/xacnhan" method="post">
+    <form action="/WebKhuVuiChoi/thanhtoan/xacnhan" method="post">
          <div id="setion">
                 <div class="setion-title">
                     <p>HA LONG - NGÀY SỬ DỤNG: </p>
