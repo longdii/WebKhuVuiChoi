@@ -22,7 +22,7 @@
 
 <body>
     <!-- /CapTreoNuHoang_c/themmoi -->
-    <form action="/CapTreoNuHoang_admin_c/themmoi" method="post">
+    <form action="/WebKhuVuiChoi/CapTreoNuHoang_admin_c/themmoi" method="post">
         <div class="header">
             <ul class="header-list">
                 <li class="header-item">
