@@ -32,7 +32,7 @@
 </style>
 
     <!-- /Ve_c/timkiem -->
-    <form action="/AmThucVaMuaSam_admin_c/timkiem" method="post">
+    <form action="/WebKhuVuiChoi/AmThucVaMuaSam_admin_c/timkiem" method="post">
         <div class="header">
             <ul class="header-list">
                 <li class="header-item">
