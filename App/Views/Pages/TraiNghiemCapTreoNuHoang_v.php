@@ -19,12 +19,12 @@
             <div class="thanhmenu">
                 <div style="padding: 5px;"><a href="">Cáp Treo Nữ Hoàng Và Khu Đồi Huyền Bí</a><i class="ti-angle-down"></i></div>
                 <div class="menu_Trongha">
-                    <div class="menu_chu"><a href="/TraiNghiemCongVienNuoc">Công Viên Nước</a></div>
-                    <div class="menu_chu"><a href="/TraiNghiemCongVienRong">Công Viên Rồng</a></div>
-                    <div class="menu_chu"><a href="/TraiNghiemAmThucVaMuaSam">Ẩm Thực Và Mua Sắn</a></div>
+                    <div class="menu_chu"><a href="/WebKhuVuiChoi/TraiNghiemCongVienNuoc">Công Viên Nước</a></div>
+                    <div class="menu_chu"><a href="/WebKhuVuiChoi/TraiNghiemCongVienRong">Công Viên Rồng</a></div>
+                    <div class="menu_chu"><a href="/WebKhuVuiChoi/TraiNghiemAmThucVaMuaSam">Ẩm Thực Và Mua Sắn</a></div>
                     <div class="menu_chu"><a href="#">Bãi biển Sun World</a></div>
-                    <div class="menu_chu"><a href="/TraiNghiemHaiDang">Hải Đăng Sun World</a></div>
-                    <div class="menu_chu"><a href="/TraiNghiemPhoCo">Kiosk Phố Cổ Sun World</a></div>
+                    <div class="menu_chu"><a href="/WebKhuVuiChoi/TraiNghiemHaiDang">Hải Đăng Sun World</a></div>
+                    <div class="menu_chu"><a href="/WebKhuVuiChoi/TraiNghiemPhoCo">Kiosk Phố Cổ Sun World</a></div>
                 </div>
             </div>
         </div>
