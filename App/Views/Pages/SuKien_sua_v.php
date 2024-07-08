@@ -21,7 +21,7 @@
 </head>
 
 <body>
-    <form action="/TinSuKien_admin/suadl" method="post">
+    <form action="/WebKhuVuiChoi/TinSuKien_admin/suadl" method="post">
         <div class="header">
             <ul class="header-list">
                 <li class="header-item">
