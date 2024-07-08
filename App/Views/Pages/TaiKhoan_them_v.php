@@ -21,7 +21,7 @@
 </head>
 
 <body>
-    <form action="/taikhoanadmin/themmoi" method="post">
+    <form action="/WebKhuVuiChoi/taikhoanadmin/themmoi" method="post">
         <div class="header">
             <ul class="header-list">
                 <li class="header-item">
