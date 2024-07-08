@@ -21,7 +21,7 @@
 </head>
 
 <body>
-    <form action="/ThongKe/thongke" method="post">
+    <form action="/WebKhuVuiChoi/ThongKe/thongke" method="post">
         <div class="header">
             <ul class="header-list">
                 <li class="header-item">
