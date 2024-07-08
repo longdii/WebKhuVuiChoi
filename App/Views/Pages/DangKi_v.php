@@ -8,7 +8,7 @@
     <title>Đăng Kí</title>
 </head>
 <body>
-<form action="/dangki/themmoi" method="post">
+<form action="/WebKhuVuiChoi/dangki/themmoi" method="post">
         <div class="noidung">
             <div class="bang">
             <p class="title"><strong>Thành viên mới</strong></p>
