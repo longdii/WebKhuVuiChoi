@@ -21,7 +21,7 @@
 </head>
 
 <body>
-    <form action="/Ve_c/suadl" method="post">
+    <form action="/WebKhuVuiChoi/Ve_c/suadl" method="post">
         <div class="header">
             <ul class="header-list">
                 <li class="header-item">
