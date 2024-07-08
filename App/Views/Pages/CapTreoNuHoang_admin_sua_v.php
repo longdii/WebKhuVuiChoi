@@ -22,7 +22,7 @@
 
 <body>
     <!-- /Ve_c/suadl -->
-    <form action="/CapTreoNuHoang_admin_c/suadl" method="post">
+    <form action="/WebKhuVuiChoi/CapTreoNuHoang_admin_c/suadl" method="post">
         <div class="header">
             <ul class="header-list">
                 <li class="header-item">
