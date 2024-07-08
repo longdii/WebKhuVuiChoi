@@ -40,14 +40,14 @@
         <div class="header-bottom">
             <div class="sub-left">
                 <ul>
-                    <li id="trangchu"><a href="/TrangChuNguoiDung">Trang Chủ</a></li>
+                    <li id="trangchu"><a href="/WebKhuVuiChoi/TrangChuNguoiDung">Trang Chủ</a></li>
 
-                    <li><a href="/trainghiemtong">Trải Nghiệm</a></li>
+                    <li><a href="/WebKhuVuiChoi/trainghiemtong">Trải Nghiệm</a></li>
                 </ul>
             </div>
 
             <div class="sub-icon">
-                <a href="/thongtintaikhoan"><img
+                <a href="/WebKhuVuiChoi/thongtintaikhoan"><img
                         src="/Public/Images/HL.png" alt=""></a>
             </div>
 
@@ -56,9 +56,9 @@
                     <li id="tintuc">
                         <a href="">Tin Tức</a>
                         <div id="tintuc-content" class="sub-right-content">
-                            <a href="/TinTuc">Tin Nổi Bật</a>
-                            <a href="/TinSuKien">Sự Kiện</a>
-                            <a href="/TinKhuyenMai">Khuyến Mãi</a>
+                            <a href="/WebKhuVuiChoi/TinTuc">Tin Nổi Bật</a>
+                            <a href="/WebKhuVuiChoi/TinSuKien">Sự Kiện</a>
+                            <a href="/WebKhuVuiChoi/TinKhuyenMai">Khuyến Mãi</a>
                         </div>
                     </li>
                     <li><a href="">_______</a></li>
@@ -81,7 +81,7 @@
             <div class="left">
                 <ul>
                     <li><a href="">Trang Chủ</a></li>
-                    <li><a href="/trainghiemtong">Trải Nghiệm</a></li>
+                    <li><a href="/WebKhuVuiChoi/trainghiemtong">Trải Nghiệm</a></li>
                     <li><a href="">Tin Tức</a></li>
                     <!-- <li><a href="">Dịch vụ</a></li> -->
                 </ul>
