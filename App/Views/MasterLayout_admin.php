@@ -81,7 +81,7 @@
                         <div class="category">
                             <ul class="category-list">
                                 <li class="category-item">
-                                    <a href="/HomeAdmin_c" class="category-link">
+                                    <a href="/WebKhuVuiChoi/HomeAdmin_c" class="category-link">
                                         <i class="category-icon fa-solid fa-house"></i>
                                         Trang chủ
                                     </a>
@@ -96,7 +96,7 @@
 
                                     <ul class="category-option-list">
                                         <li class="category-option-item">
-                                            <a href="/Ve_c" class="category-option-link">
+                                            <a href="/WebKhuVuiChoi/Ve_c" class="category-option-link">
                                                 <i class="category-option-icon fa-solid fa-ticket"></i>
                                                 Quản lý trò chơi
                                             </a>
@@ -104,7 +104,7 @@
                                         </li>
 
                                         <li class="category-option-item">
-                                            <a href="/trainghiemcongvienrong_admin"
+                                            <a href="/WebKhuVuiChoi/trainghiemcongvienrong_admin"
                                                 class="category-option-link">
                                                 <i class="category-option-icon fa-solid fa-dragon"></i>
                                                 Công viên rồng
@@ -120,7 +120,7 @@
 
                                         </li>
                                         <li class="category-option-item">
-                                            <a href="/CapTreoNuHoang_admin_c"
+                                            <a href="/WebKhuVuiChoi/CapTreoNuHoang_admin_c"
                                                 class="category-option-link">
                                                 <i class="category-option-icon fa-solid fa-cable-car"></i>
                                                 Cáp treo
@@ -152,7 +152,7 @@
 
                                     <ul class="category-option-list">
                                         <li class="category-option-item">
-                                            <a href="/AmThucVaMuaSam_admin_c"
+                                            <a href="/WebKhuVuiChoi/AmThucVaMuaSam_admin_c"
                                                 class="category-option-link">
                                                 <i class="category-option-icon fa-solid fa-shop"></i>
                                                 Ẩm thực và mua sắm
@@ -160,7 +160,7 @@
 
                                         </li>
                                         <li class="category-option-item">
-                                            <a href="/haidang_admin"
+                                            <a href="/WebKhuVuiChoi/haidang_admin"
                                                 class="category-option-link">
                                                 <i class="category-option-icon fa-solid fa-anchor"></i>
                                                 Hải đăng Sun World
@@ -168,14 +168,14 @@
 
                                         </li>
                                         <li class="category-option-item">
-                                            <a href="/PhoCo_admin_c"
+                                            <a href="/WebKhuVuiChoi/PhoCo_admin_c"
                                                 class="category-option-link">
                                                 <i class="category-option-icon fa-solid fa-archway"></i>
                                                 Kiosk phố cổ Sun World
                                             </a>
                                         </li>
                                         <li class="category-option-item">
-                                            <a href="/tinsukien_admin"
+                                            <a href="/WebKhuVuiChoi/tinsukien_admin"
                                                 class="category-option-link">
                                                 <i class="category-option-icon fa-solid fa-calendar-days"></i>
                                                 Sự kiện
@@ -186,7 +186,7 @@
                                 </li>
 
                                 <li class="category-item">
-                                    <a href="/tintuc_admin" class="category-link">
+                                    <a href="/WebKhuVuiChoi/tintuc_admin" class="category-link">
                                         <i class="category-icon fa-solid fa-newspaper"></i>
                                         Tin tức nổi bật
                                     </a>
@@ -198,20 +198,20 @@
                                     </a>
                                 </li> -->
                                 <li class="category-item">
-                                    <a href="/tinkhuyenmai_admin" class="category-link">
+                                    <a href="/WebKhuVuiChoi/tinkhuyenmai_admin" class="category-link">
                                         <i class="category-icon fa-solid fa-tags"></i>
                                         Khuyến mãi
                                     </a>
                                 </li>
 
                                 <li class="category-item">
-                                    <a href="/Thongke" class="category-link">
+                                    <a href="/WebKhuVuiChoi/Thongke" class="category-link">
                                         <i class="category-icon fa-solid fa-chart-simple"></i>
                                         Thống kê
                                     </a>
                                 </li>
                                 <li class="category-item">
-                                    <a href="/taikhoanadmin" class="category-link">
+                                    <a href="/WebKhuVuiChoi/taikhoanadmin" class="category-link">
                                         <i class="category-icon fa-solid fa-user-group"></i>
                                         Tài khoản
                                     </a>
