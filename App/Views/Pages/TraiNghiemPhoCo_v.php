@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="/Public/Css/TraiNghiemCapTreoNuHoang.css">
     <link rel="stylesheet" href="/Public/Css/fonts/themify-icons/themify-icons.css">
     <link rel="stylesheet" href="/Public/Css/grid.css">
-    <link rel="stylesheet" href="http://localhost/Website_khu_vui_choi/Public/fonts/fontawesome-free-6.4.2-web/css/all.min.css">
+    <link rel="stylesheet" href="/Public/fonts/fontawesome-free-6.4.2-web/css/all.min.css">
     <title>GioiThieu</title>
 </head>
 
@@ -16,18 +16,18 @@
     <div class="aside">
         <h1>Dãy Kiosk Phố cổ Sun World - Sun World Ha Long</h1>
         <div class="sub-aside">
-            <a href="/TrangChuNguoiDung">Trang Chủ</a><i class="ti-angle-right"></i>
-            <a href="/trainghiemtong">Trải Nghiệm</a><i class="ti-angle-right"></i>
+            <a href="/WebKhuVuiChoi/TrangChuNguoiDung">Trang Chủ</a><i class="ti-angle-right"></i>
+            <a href="/WebKhuVuiChoi/trainghiemtong">Trải Nghiệm</a><i class="ti-angle-right"></i>
             <a href="">Kiosk Phố cổ Sun World</a><i class="ti-angle-down"></i><i class="ti-angle-right"></i>
             <div class="thanhmenu">
                 <div style="padding: 5px;"><a href="">Dãy Kiosk Phố cổ Sun Worl</a></div>
                 <div class="menu_Trongha">
-                    <div class="menu_chu"><a href="/TraiNghiemCongVienNuoc">Công Viên Nước</a></div>
-                    <div class="menu_chu"><a href="/TraiNghiemCongVienRong">Công Viên Rồng</a></div>
-                    <div class="menu_chu"><a href="/TraiNghiemCapTreoNuHoang">Cáp Treo Nữ Hoàng và Khu Đồi Huyền Bí</a></div>
-                    <div class="menu_chu"><a href="/TraiNghiemAmThucVaMuaSam">Ẩm Thực Và Mua Sắn</a></div>
+                    <div class="menu_chu"><a href="/WebKhuVuiChoi/TraiNghiemCongVienNuoc">Công Viên Nước</a></div>
+                    <div class="menu_chu"><a href="/WebKhuVuiChoi/TraiNghiemCongVienRong">Công Viên Rồng</a></div>
+                    <div class="menu_chu"><a href="/WebKhuVuiChoi/TraiNghiemCapTreoNuHoang">Cáp Treo Nữ Hoàng và Khu Đồi Huyền Bí</a></div>
+                    <div class="menu_chu"><a href="/WebKhuVuiChoi/TraiNghiemAmThucVaMuaSam">Ẩm Thực Và Mua Sắn</a></div>
                     <div class="menu_chu"><a href="#">Bãi biển Sun World</a></div>
-                    <div class="menu_chu"><a href="/TraiNghiemHaiDang">Hải Đăng Sun World</a></div>
+                    <div class="menu_chu"><a href="/WebKhuVuiChoi/TraiNghiemHaiDang">Hải Đăng Sun World</a></div>
                 </div>
             </div>
             
