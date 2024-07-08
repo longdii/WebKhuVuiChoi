@@ -22,7 +22,7 @@
 </head>
 
 <body>
-    <form action="/Muave_c/muave" method="post">
+    <form action="/WebKhuVuiChoi/Muave_c/muave" method="post">
         <div class="container__ticket">
             <div class="grid wide">
                 <div class="btn">
