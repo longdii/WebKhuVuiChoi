@@ -20,7 +20,7 @@
 </head>
 
 <body>
-    <form action="/TraiNghiemCongVienRong_admin/timkiem" method="post">
+    <form action="/WebKhuVuiChoi/TraiNghiemCongVienRong_admin/timkiem" method="post">
         <div class="header">
             <ul class="header-list">
                 <li class="header-item">
