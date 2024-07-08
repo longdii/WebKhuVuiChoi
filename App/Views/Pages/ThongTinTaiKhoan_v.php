@@ -9,7 +9,7 @@
     <title>Thông Tin Tài khoản</title>
 </head>
 <body>
-<form method="post" action="/thongtintaikhoan/CapNhat" >
+<form method="post" action="/WebKhuVuiChoi/thongtintaikhoan/CapNhat" >
 <div class="doashbox">
             <div class="sub-doashbox">
                 <div class="form-doashbox" id="thongtintaikhoan">
