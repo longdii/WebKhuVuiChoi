@@ -21,7 +21,7 @@
 </head>
 
 <body>
-    <form action="/Ve_c/themmoi" enctype="multipart/form-data" method="post">
+    <form action="/WebKhuVuiChoi/Ve_c/themmoi" enctype="multipart/form-data" method="post">
         <div class="header">
             <ul class="header-list">
                 <li class="header-item">
