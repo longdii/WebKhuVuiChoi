@@ -39,7 +39,7 @@
         </div>
         <div class="form-trainghiem">
            
-            <a href="/TraiNghiemCapTreoNuHoang">
+            <a href="/WebKhuVuiChoi/TraiNghiemCapTreoNuHoang">
             <img style="width:270px ;height:150px"src="https://halong.sunworld.vn/wp-content/uploads/2018/10/cap-treo-nu-hoang.png">
             <div class="title">Cáp Treo Nữ Hoàng Và Khu Đồi Huyền Bí</div>
         
@@ -48,7 +48,7 @@
         </div>
         <div class="form-trainghiem">
            
-            <a href="/TraiNghiemCongVienNuoc">
+            <a href="/WebKhuVuiChoi/TraiNghiemCongVienNuoc">
             <img style="width:270px ;height:150px"src="https://halong.sunworld.vn/wp-content/uploads/2018/10/Cong-Vien-Nuoc-Ha-Long-67-1-270x170.jpg">
             <div class="title">Công Viên Nước</div>
         
@@ -57,7 +57,7 @@
         </div>
         <div class="form-trainghiem">
            
-            <a href="/TrainghiemCongVienRong">
+            <a href="/WebKhuVuiChoi/TrainghiemCongVienRong">
             <img style="width:270px ;height:150px"src="https://halong.sunworld.vn/wp-content/uploads/2018/10/DSC_7742-270x170.jpg">
             <div class="title">Công Viên Rồng</div>
         
@@ -66,7 +66,7 @@
         </div>
         <div class="form-trainghiem">
            
-            <a href="/TraiNghiemAmThucVaMuaSam">
+            <a href="/WebKhuVuiChoi/TraiNghiemAmThucVaMuaSam">
             <img style="width:270px ;height:150px"src="https://halong.sunworld.vn/wp-content/uploads/2018/10/WM2P0029-270x170.jpg">
             <div class="title">Ẩm thực và mua sắm</div>
         
@@ -75,7 +75,7 @@
         </div>
         <div class="form-trainghiem">
            
-            <a href="/TraiNghiemPhoCo">
+            <a href="/WebKhuVuiChoi/TraiNghiemPhoCo">
             <img style="width:270px ;height:150px"src="https://halong.sunworld.vn/wp-content/uploads/2018/10/18920473_247199909096275_7482388689173386718_n.jpg">
             <div class="title">Kiosk Phố Cổ Sun world</div>
         
@@ -93,7 +93,7 @@
         </div>
         <div class="form-trainghiem">
            
-            <a href="/TraiNghiemHaiDang">
+            <a href="/WebKhuVuiChoi/TraiNghiemHaiDang">
             <img style="width:270px ;height:150px"src="https://halong.sunworld.vn/wp-content/uploads/2018/10/9-1.jpg">
             <div class="title">Hải Đăng Sun World</div>
         
