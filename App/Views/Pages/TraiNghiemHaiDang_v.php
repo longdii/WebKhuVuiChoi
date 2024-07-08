@@ -18,13 +18,13 @@
             <a href="">Trải Nghiệm</a><i class="ti-angle-right"></i>
             <a id="haidang" href="#">Hải Đăng Sun Word</a><i class="ti-angle-down"></i>
             <div id="sub-trainghiem" class="sub-trainghiem">
-               <a href="/TraiNghiemCongVienRong">+ Công Viên Rồng</a>
+               <a href="/WebKhuVuiChoi/TraiNghiemCongVienRong">+ Công Viên Rồng</a>
                <a href="">+ Bảo Hải Linh Thông Tự</a>
-               <a href="/TraiNghiemAmThucVaMuaSam">+ Ẩm Thực Và Mua Sắm</a>
+               <a href="/WebKhuVuiChoi/TraiNghiemAmThucVaMuaSam">+ Ẩm Thực Và Mua Sắm</a>
                <a href="">+ Bãi Biển Sun World</a>
-               <a href="/TraiNghiemCongVienNuoc">+ Công Viên Nước</a>
-               <a href="/TraiNghiemPhoCo">+ Kiosk Phố Cổ Sun World</a>
-               <a href="/TraiNghiemCapTreoNuHoang">+ Cáp Treo Nữ Hoàng Và Khu Đồi Huyền Bí</a>
+               <a href="/WebKhuVuiChoi/TraiNghiemCongVienNuoc">+ Công Viên Nước</a>
+               <a href="/WebKhuVuiChoi/TraiNghiemPhoCo">+ Kiosk Phố Cổ Sun World</a>
+               <a href="/WebKhuVuiChoi/TraiNghiemCapTreoNuHoang">+ Cáp Treo Nữ Hoàng Và Khu Đồi Huyền Bí</a>
             </div>
         </div>
 </div>
