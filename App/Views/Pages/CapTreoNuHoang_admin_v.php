@@ -22,7 +22,7 @@
 
 <body>
     <!-- /Ve_c/timkiem -->
-    <form action="/CapTreoNuHoang_admin_c/timkiem" method="post">
+    <form action="/WebKhuVuiChoi/CapTreoNuHoang_admin_c/timkiem" method="post">
         <div class="header">
             <ul class="header-list">
                 <li class="header-item">
