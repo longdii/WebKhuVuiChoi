@@ -10,7 +10,7 @@
     <title>Đăng Nhập</title>
 </head>
 <body>
-    <form method="post" action="/App/Controllers/DangNhap.php/KiemTraDangNhap">
+    <form method="post" action="/App/Controllers/DangNhap/KiemTraDangNhap">
     <div class="noidung">
         <div class="bang">
             <div class="anh"></div>
