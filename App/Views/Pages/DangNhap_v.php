@@ -10,7 +10,7 @@
     <title>Đăng Nhập</title>
 </head>
 <body>
-    <form method="post" action="http://khudulichSunWorld.com/dangnhap.php/KiemTraDangNhap">
+    <form method="post" action="http://khudulichSunWorld.com/WebKhuVuiChoi/dangnhap/KiemTraDangNhap">
     <div class="noidung">
         <div class="bang">
             <div class="anh"></div>
